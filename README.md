@@ -26,7 +26,7 @@ I'm a passionate developer who loves turning ideas into real-world applications.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-dot-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost-dot-coder&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ghost-dot-coder&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
