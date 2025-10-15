@@ -57,7 +57,7 @@ I'm a passionate developer who loves turning ideas into real-world applications.
 ---
 
 ### 📬 Let's Connect
-💬 I’ll be adding my social links here soon — stay tuned!
+[Linkedin:](https://www.linkedin.com/in/manu-babychan/)
 
 ---
 
