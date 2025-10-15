@@ -22,9 +22,8 @@ I'm a passionate developer who loves turning ideas into real-world applications.
 ### ⚡ GitHub Stats
 <div align="center">
 
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost-dot-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-dot-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-dot-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ghost-dot-coder&theme=tokyonight&hide_border=true&border_radius=12)
 
