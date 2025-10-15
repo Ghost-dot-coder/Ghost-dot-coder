@@ -22,11 +22,11 @@ I'm a passionate developer who loves turning ideas into real-world applications.
 ### ⚡ GitHub Stats
 <div align="center">
 
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manubabychan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost-dot-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manubabychan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-dot-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manubabychan&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghost-dot-coder&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
