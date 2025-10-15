@@ -23,9 +23,9 @@ I'm a passionate developer who loves turning ideas into real-world applications.
 <div align="center">
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-dot-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-dot-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=800)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghost-dot-coder)](https://git.io/streak-stats) 
+
 
 </div>
 
