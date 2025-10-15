@@ -57,7 +57,8 @@ I'm a passionate developer who loves turning ideas into real-world applications.
 ---
 
 ### 📬 Let's Connect
-[Linkedin:](https://www.linkedin.com/in/manu-babychan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-babychan/)
+
 
 ---
 
